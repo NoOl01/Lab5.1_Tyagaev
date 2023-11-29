@@ -1,4 +1,5 @@
-﻿Console.Write("Введите первую строку: ");
+//Lab5.1 Сложный вариант
+Console.Write("Введите первую строку: ");
 char[] array1 = Console.ReadLine().ToCharArray();
 Console.Write("Введите вторую строку: ");
 char[] array2 = Console.ReadLine().ToCharArray();
